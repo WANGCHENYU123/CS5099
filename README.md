@@ -1,2 +1,2 @@
 # CS5099
-Parallel k-means clustering algorithm
+Implementing parallel k-means clustering algorithm with hierarchical data partitioning on general cluster
